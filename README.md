@@ -6,7 +6,3 @@ Monster kill
 Godlike
 ![ima22ge](https://github.com/user-attachments/assets/0617cd4a-f0a8-406a-8991-3100e3a31113)
 
-{username} — ваш ник на ГитХабе;
-{repository} — репозиторий где хранятся картинки;
-{branch} — ветка репозитория;
-{path} — путь к месту нахождения картинки.
